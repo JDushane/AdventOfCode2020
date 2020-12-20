@@ -5,3 +5,6 @@ Day 1:
 
 Day 2:
     This day was a little harder, working with split as well now. This advent will definitely sharpen my python skills. The first part im perfectly fine with how I did it but I feel that for part 2 I could more efficiently organise my logic overall when checking to see if a password is valid
+
+Day 3:
+    Learned proper method of using modulo to cycle through an array to properly implement the repeating nature of the puzzle. This is the first one where I had to do some small quick searching of the reddit for how to properly do it but thankfully I didnt find any spoilers.
